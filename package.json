@@ -1,0 +1,36 @@
+{
+	"name": "git",
+	"displayName": "Git Extension Pack",
+	"description": "Popular Visual Studio Code extensions for Git",
+	"version": "0.0.1",
+	"publisher": "donjayamanne",
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#f0efe7",
+		"theme": "light"
+	},
+	"engines": {
+		"vscode": "^1.10.0"
+	},
+	"keywords": [
+		"git", "gitblame", "blame", "project", "folder"
+	],
+	"categories": [
+		"Extension Packs"
+	],
+	"repository": {
+		"url": "https://github.com/DonJayamanne/git-extension-pack"
+	},
+	"homepage": "https://github.com/DonJayamanne/git-extension-pack",
+	"bugs": {
+		"url": "https://github.com/DonJayamanne/git-extension-pack/issues"
+	},
+	"extensionDependencies": [
+		"donjayamanne.githistory",
+		"alefragnani.project-manager",
+		"codezombiech.gitignore",
+		"waderyan.gitblame",
+		"eamodio.gitlens",
+		"ziyasal.vscode-open-in-github"
+	]
+}
