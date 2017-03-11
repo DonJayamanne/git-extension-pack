@@ -2,7 +2,7 @@
 	"name": "git-extension-pack",
 	"displayName": "Git Extension Pack",
 	"description": "Popular Visual Studio Code extensions for Git",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"publisher": "donjayamanne",
 	"icon": "icon.png",
 	"galleryBanner": {
@@ -28,7 +28,6 @@
 	"extensionDependencies": [
 		"donjayamanne.githistory",
 		"alefragnani.project-manager",
-		"eamodio.gitlens",
 		"waderyan.gitblame",
 		"codezombiech.gitignore",
 		"ziyasal.vscode-open-in-github"
