@@ -2,7 +2,7 @@
 	"name": "git-extension-pack",
 	"displayName": "Git Extension Pack",
 	"description": "Popular Visual Studio Code extensions for Git",
-	"version": "0.0.3",
+	"version": "0.1.0",
 	"publisher": "donjayamanne",
 	"icon": "icon.png",
 	"galleryBanner": {
