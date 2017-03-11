@@ -28,9 +28,9 @@
 	"extensionDependencies": [
 		"donjayamanne.githistory",
 		"alefragnani.project-manager",
-		"codezombiech.gitignore",
-		"waderyan.gitblame",
 		"eamodio.gitlens",
+		"waderyan.gitblame",
+		"codezombiech.gitignore",
 		"ziyasal.vscode-open-in-github"
 	]
 }
