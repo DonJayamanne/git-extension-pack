@@ -25,7 +25,7 @@
 	"bugs": {
 		"url": "https://github.com/DonJayamanne/git-extension-pack/issues"
 	},
-	"extensionDependencies": [
+	"extensionPack": [
 		"donjayamanne.githistory",
 		"alefragnani.project-manager",
 		"eamodio.gitlens",
